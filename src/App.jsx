@@ -124,7 +124,7 @@ function App() {
         margin: "0 auto",
       }}
     >
-      <h1>GhostJobCheck 👻</h1>
+      <h1>Fake/Ghost Job Checker 👻</h1>
 
       <div className="card">
         <h2>Search Company</h2>
